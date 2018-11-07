@@ -1,7 +1,4 @@
-rchivo Local
-<<<<<<< HEAD
+archivo Local
 a numas xD
-=======
 nmms xD
 no mames xD
->>>>>>> e4695181dacab180a5c2eabd4413325e9f3c4c44
